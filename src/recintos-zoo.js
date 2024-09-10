@@ -1,3 +1,4 @@
+// Para seguir a boa prática de um código mais rápido para possíveis futuras mudanças, separei algumas informações em arquivos:
 import { recintos } from './recinto-data.js';
 import { animais } from './animais-data.js';
 
