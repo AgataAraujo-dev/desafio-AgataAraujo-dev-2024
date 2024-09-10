@@ -1,4 +1,4 @@
-import { Recintos } from "./teste3.js";
+import { Recintos } from "./recintos-zoo.js";
 
 describe('Recintos do Zoologico', () => {
 
